@@ -1,0 +1,9 @@
+Nama: AFIF AL HAFIZ
+NIM : 1810520045
+Tipe Program : Promosi
+
+Login admin:localhost/blogku/admin 
+ 	Username : admin
+	password : 12345
+
+Uas Pemerograman Web
